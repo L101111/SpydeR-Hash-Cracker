@@ -7,6 +7,7 @@
 <p><b>SpydeR</b> is a powerfull yet simple tool for cracking hashes. SpydeR provides a simple interface for users to input a hash and select one of the supported hashing algorithms. It then iterates through a provided wordlist, hashing each word and comparing it to the input hash until a match is found. SpydeR supports a wide range of hashing algorithms, including common ones like MD5 and SHA-256, as well as more specialized ones like BLAKE2b and SHA3. Users have the flexibility to provide their own wordlists, enabling customization based on specific requirements or preferences.</p>
 
 <img src="https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/screen.png" width="600px"/>
+</div>
 
 # Usage
 
@@ -19,7 +20,7 @@ Otherwise you can just run the tool and enter the path later.
     python3 SpydeR.py 
     
 
-</div>
+
 
 <center><h1>Supported Algorithms</h1></center>
 <ul> 
