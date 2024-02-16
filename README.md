@@ -1,6 +1,6 @@
 # SpydeR-Hash-Cracker
 
-<img src="https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/screen.png" width="450px"/>
+
 
 SpydeR is a powerfull yet simple tool for cracking hashes with over 10 hashing algorithms.
 To use the tool, just enter in your terminal:
@@ -10,6 +10,8 @@ To use the tool, just enter in your terminal:
 Otherwise you can just run the tool and enter the path later.
     
     python3 SpydeR.py 
+    
+<img src="https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/screen.png" width="500px"/>
 
 
 # Supported algorithms: 
