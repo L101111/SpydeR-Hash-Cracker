@@ -35,7 +35,8 @@ Otherwise you can just run the tool and enter the path later.
 <li>SHAKE256</li>
 </ul>
 
-# Tested on
+# Platforms tested on
+<li>Windows</li>
 <li>Ubuntu</li>
 <li>Debian</li>
 <li>Kali Linux</li>
