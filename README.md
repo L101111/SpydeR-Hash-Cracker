@@ -1,8 +1,8 @@
 
-  <h1>SpydeR-Hash-Cracke</h1>
-  <center><img src="https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/l.png" width="200px" /></center>
+  <h1 align='center'>SpydeR-Hash-Cracke
+  <img src="https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/l.png" width="200px" />
 
-  
+  </h1>
   SpydeR is a powerfull yet simple tool for cracking hashes with over 10 hashing algorithms.
 
 <img src="https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/screen.png" width="600px"/>
