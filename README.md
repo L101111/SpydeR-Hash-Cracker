@@ -2,7 +2,7 @@
 
 
 SpydeR is a powerfull yet simple tool for cracking hashes with over 10 hashing algorithms.
-# Installation
+# Insallation
 ```
 git clone https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/SpydeR.py
 ```
