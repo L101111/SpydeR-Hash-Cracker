@@ -21,8 +21,8 @@ Otherwise you can just run the tool and enter the path later.
 
 </div>
 
-# Supported algorithms: 
-<center><ul> 
+<center><h1>Supported Algorithms</h1></center>
+<ul> 
 <li>MD5</li>
 <li>SHA1</li>
 <li>SHA224</li>
@@ -37,9 +37,9 @@ Otherwise you can just run the tool and enter the path later.
 <li>SHA3_512</li>
 <li>SHAKE128</li>
 <li>SHAKE256</li>
-</ul></center>
+</ul>
 
-# Platforms tested on
+</center><h1>Platforms tested on</h1></center>
 <li>Windows</li>
 <li>Ubuntu</li>
 <li>Debian</li>
