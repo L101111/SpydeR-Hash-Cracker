@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1>SpydeR-Hash-Cracke </h1>
+    <h1>SpydeR-Hash-Cracker </h1>
     <img src="https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/l.png" width="200px" />
  <br>
     
