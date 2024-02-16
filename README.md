@@ -13,7 +13,7 @@
 
 Installation:
    
-   git clone https://github.com/L101111/SpydeR-Hash-Cracker
+    git clone https://github.com/L101111/SpydeR-Hash-Cracker
 
 
 To use the tool, just enter in your terminal:
