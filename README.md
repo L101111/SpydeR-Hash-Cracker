@@ -19,9 +19,10 @@ Otherwise you can just run the tool and enter the path later.
     python3 SpydeR.py 
     
 
+</div>
 
 # Supported algorithms: 
-<ul> 
+<center><ul> 
 <li>MD5</li>
 <li>SHA1</li>
 <li>SHA224</li>
@@ -36,7 +37,7 @@ Otherwise you can just run the tool and enter the path later.
 <li>SHA3_512</li>
 <li>SHAKE128</li>
 <li>SHAKE256</li>
-</ul>
+</ul></center>
 
 # Platforms tested on
 <li>Windows</li>
@@ -47,5 +48,5 @@ Otherwise you can just run the tool and enter the path later.
 <li>Arch Linux</li>
 
 # Enjoy
-</div>
+
 
