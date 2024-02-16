@@ -12,20 +12,20 @@ Otherwise you can just run the tool and enter the path later.
     python3 SpydeR.py 
 
 
-Supported algorithms:  
-MD5/
-SHA1/
-SHA224/
-SHA256/
-SHA384/
-SHA512/
-BLAKE2b (512-bit)/
-BLAKE2s (256-bit)/
-SHA3_224/
-SHA3_256/
-SHA3_384/
-SHA3_512/
-SHAKE128/
-SHAKE256/
-
+<ul>Supported algorithms:  
+<li>MD5</li>
+<li>SHA1</li>
+<li>SHA224</li>
+<li>SHA256</li>
+<li>SHA384</li>
+<li>SHA512</li>
+<li>BLAKE2b (512-bit)</li>
+<li>BLAKE2s (256-bit)</li>
+<li>SHA3_224</li>
+<li>SHA3_256</li>
+<li>SHA3_384</li>
+<li>SHA3_512</li>
+<li>SHAKE128</li>
+<li>SHAKE256</li>
+</ul>
 ![Logo](https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/logo)
