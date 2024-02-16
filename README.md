@@ -1,7 +1,7 @@
 <div align='center'>
     <h1>SpydeR-Hash-Cracke </h1>
     <img src="https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/l.png" width="200px" />
- 
+ <br>
     <p>SpydeR is a powerfull yet simple tool for cracking hashes with over 10 hashing algorithms.</p>
 
     <img src="https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/screen.png" width="600px"/>
