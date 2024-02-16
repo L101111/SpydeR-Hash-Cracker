@@ -25,4 +25,4 @@ SHA3_512/
 SHAKE128/
 SHAKE256/
 
-![Logo](https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/logo.png)
+![Logo](https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/logo)
