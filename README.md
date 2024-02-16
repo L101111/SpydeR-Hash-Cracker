@@ -1,5 +1,7 @@
 # SpydeR-Hash-Cracker
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
 SpydeR is a powerfull yet simple tool for cracking hashes with over 10 hashing algorithms.
 To use the tool, just enter in your terminal:
 
