@@ -53,6 +53,8 @@ Otherwise you can just run the tool and enter the path later:
 <li>Parrot OS</li>
 <li>Arch Linux</li>
 
+# License 
+<p>See <a href="https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/LICENSE">LICENSE</a> for more information.</p>
 # Enjoy
 
 
