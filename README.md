@@ -55,6 +55,7 @@ Otherwise you can just run the tool and enter the path later:
 <li>Parrot OS</li>
 <li>Arch Linux</li>
 
+
 **⚠️ IMPORTANT ⚠️**
 
 <p><i>This project is created for educational and ethical purposes only. Any actions and activities performed using this program should comply with applicable laws and ethical standards. The developers of this program do not condone any illegal or unethical use.</i></p>
