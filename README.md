@@ -43,4 +43,3 @@ Otherwise you can just run the tool and enter the path later.
 <li>Arch Linux</li>
 
 
-![Logo](https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/logo)
