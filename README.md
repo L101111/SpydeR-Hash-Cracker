@@ -11,14 +11,16 @@
 
 # Installation & Usage
 
-git clone https://github.com/L101111/SpydeR-Hash-Cracker
+Installation:
+   
+   git clone https://github.com/L101111/SpydeR-Hash-Cracker
 
 
 To use the tool, just enter in your terminal:
 
     python3 SpydeR.py /path/to/your/wordlist
 
-Otherwise you can just run the tool and enter the path later.
+Otherwise you can just run the tool and enter the path later:
     
     python3 SpydeR.py 
     
