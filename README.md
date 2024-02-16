@@ -6,6 +6,7 @@
 
     <img src="https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/screen.png" width="600px"/>
 </div>
+
 # Usage
 
 To use the tool, just enter in your terminal:
