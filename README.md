@@ -5,6 +5,7 @@
     <p>SpydeR is a powerfull yet simple tool for cracking hashes with over 10 hashing algorithms.</p>
 
     <img src="https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/screen.png" width="600px"/>
+    
 </div>
 
 # Usage
