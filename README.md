@@ -12,7 +12,8 @@ Otherwise you can just run the tool and enter the path later.
     python3 SpydeR.py 
 
 
-<ul>Supported algorithms:  
+# Supported algorithms: 
+<ul> 
 <li>MD5</li>
 <li>SHA1</li>
 <li>SHA224</li>
