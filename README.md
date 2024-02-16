@@ -2,11 +2,12 @@
 
 
 SpydeR is a powerfull yet simple tool for cracking hashes with over 10 hashing algorithms.
-# Insallation
+
+
+# Insallation & Usage
 ```
 git clone https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/SpydeR.py
 ```
-# Usage
 To use the tool, just enter in your terminal:
 
     python3 SpydeR.py /path/to/your/wordlist
