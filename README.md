@@ -54,7 +54,7 @@ Otherwise you can just run the tool and enter the path later:
 <li>Kali Linux</li>
 <li>Parrot OS</li>
 <li>Arch Linux</li>
-
+<br>
 
 **⚠️ IMPORTANT ⚠️**
 
