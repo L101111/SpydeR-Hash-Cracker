@@ -29,4 +29,13 @@ Otherwise you can just run the tool and enter the path later.
 <li>SHAKE128</li>
 <li>SHAKE256</li>
 </ul>
+
+# Tested on
+<li>Ubuntu</li>
+<li>Debian</li>
+<li>Kali Linux</li>
+<li>Parrot OS</li>
+<li>Arch Linux</li>
+
+
 ![Logo](https://github.com/L101111/SpydeR-Hash-Cracker/blob/main/logo)
