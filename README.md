@@ -3,6 +3,7 @@
 
 
 SpydeR is a powerfull yet simple tool for cracking hashes with over 10 hashing algorithms.
+# Usage
 To use the tool, just enter in your terminal:
 
     python3 SpydeR.py /path/to/your/wordlist
